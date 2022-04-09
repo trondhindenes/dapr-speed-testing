@@ -1,0 +1,10 @@
+.venv
+test_data
+
+__pycache__
+.env
+temp
+.pytest_cache
+.idea
+*.pyc
+.deploy
